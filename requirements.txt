@@ -1,0 +1,8 @@
+tensorflow-gpu
+bert-tensorflow
+matplotlib
+tqdm
+pandas
+underthesea
+scikit-learn
+
